@@ -1,7 +1,10 @@
 # Hola, soy Carlos Hernández 👋
 **Especialista en Automatización, DevOps & Full-Stack Developer**
 
-📍 Oaxaca, México | ✉️ [carloshdzj145@gmail.com](mailto:carloshdzj145@gmail.com)
+📍 Oaxaca, México | ✉️ [carloshdzj145@gmail.com](mailto:carloshdzj145@gmail.com) | 🔗 [LinkedIn: Carlos Hernández](https://www.linkedin.com/in/carlos-hernandez-1414022b1/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-hernandez-1414022b1/)
+[![Gmail](https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloshdzj145@gmail.com)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
