@@ -42,12 +42,20 @@ Profesional especializado en la automatización de procesos operativos y la digi
 * **Tecnologías:** Python, FastAPI, SQLAlchemy, Playwright, Tailwind CSS, Chart.js, Proxmox LXC.
 * **Impacto:** Automatización de la emisión de constancias y formatos normativos para miles de planteles educativos. Incluye validación de identidad, motor de extracción automatizada con cola secuencial FIFO y un dashboard de analítica con métricas de rendimiento en tiempo real (tasa de éxito documentada >98%), eliminando cuellos de botella en la atención a directivos.
 
+| Ventanilla Digital Pública | Dashboard & Analítica en Tiempo Real |
+| :---: | :---: |
+| [![Ventanilla SIDI](https://raw.githubusercontent.com/CARLOSHDZJ/SIDI-IEEPO/main/docs/screenshots/sidi_ventanilla.png)](https://github.com/CARLOSHDZJ/SIDI-IEEPO) | [![Dashboard SIDI](https://raw.githubusercontent.com/CARLOSHDZJ/SIDI-IEEPO/main/docs/screenshots/sidi_dashboard.png)](https://github.com/CARLOSHDZJ/SIDI-IEEPO) |
+
 ### 🚚 [Sistema de Gestión y Recolección de Bajas (`sistema-bajas`)](https://github.com/CARLOSHDZJ/sistema-bajas)
 *Plataforma web Full-Stack para la programación, validación documental y seguimiento logístico de recolección de bienes.*
 * **Repositorio:** [`github.com/CARLOSHDZJ/sistema-bajas`](https://github.com/CARLOSHDZJ/sistema-bajas)
 * **Rol:** Desarrollador Full-Stack.
 * **Tecnologías:** Python, Flask, SQLite3 (WAL), Pandas, Bootstrap 5, DataTables, Waitress.
 * **Impacto:** Digitalización total del flujo de trabajo de recolecciones. Incorpora control de acceso basado en roles (RBAC), bitácora de auditoría, validación de expedientes en PDF, seguimiento de tickets por días transcurridos, importación masiva desde Excel y métricas de productividad histórica divididas por las 8 regiones del estado.
+
+| Panel Operativo de Solicitudes | Tablero de Productividad por Región |
+| :---: | :---: |
+| [![Dashboard Bajas](https://raw.githubusercontent.com/CARLOSHDZJ/sistema-bajas/main/docs/screenshots/bajas_dashboard.png)](https://github.com/CARLOSHDZJ/sistema-bajas) | [![Reportes Bajas](https://raw.githubusercontent.com/CARLOSHDZJ/sistema-bajas/main/docs/screenshots/bajas_reportes.png)](https://github.com/CARLOSHDZJ/sistema-bajas) |
 
 ### 🖥️ Arquitectura de Servidores y Redes
 *Administración de infraestructura para despliegue de aplicaciones y gestión de datos.*
